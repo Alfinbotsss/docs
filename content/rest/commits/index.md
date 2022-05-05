@@ -13,7 +13,7 @@ miniTocMaxHeadingLevel: 3
 children:
   - /commits
   - /comments
-  - /statuses
+  - /statuses2ywbwbw
 redirect_from:
   - /rest/reference/commits
 ---
